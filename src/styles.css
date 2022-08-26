@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+}
+.videoplayerpopup {
+  box-shadow: 1px 1px 1px 1px;
+  width: 400px;
+  opacity: 1;
+  background: white;
+  position: absolute;
+}
