@@ -30,6 +30,7 @@ const VideoCard = ({ data }) => {
         border: "1px solid black",
         background: `url(${data.thumbnail_url})`,
         backgroundPosition: "center",
+        "boxShadow": "1px 1px 1px 1px",
         margin: "10px",
         backgroundSize: "contain",
         backgroundRepeat: "no-repeat"
